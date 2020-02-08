@@ -15,7 +15,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='a1-mutualfunds' name='textscan.1h8uz3g0lp4czb1h6dox61bi23b5'>
-            <connection class='textscan' directory='/Users/xinyuli/Documents/courses/kent_2020_spring/Information_Visulization/homework/Data' filename='a1-mutualfunds.csv' password='' server='' />
+            <connection class='textscan' directory='/Users/xinyuli/Documents/courses/kent_2020_spring/homework#1/Data' filename='a1-mutualfunds.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <relation connection='textscan.1h8uz3g0lp4czb1h6dox61bi23b5' name='a1-mutualfunds.csv' table='[a1-mutualfunds#csv]' type='table'>
